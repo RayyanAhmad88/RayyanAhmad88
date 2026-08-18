@@ -8,8 +8,8 @@
 
 ---
 
-<p align="center">
-  <img width="450" src="https://cdni.iconscout.com/illustration/premium/thumb/web-development-illustration-download-in-svg-png-gif-file-formats--developer-programmer-coding-laptop-code-seo-marketing-pack-business-illustrations-4375051.png" alt="Coding Illustration" />
+<p 
+<img align="right" alt="Coding Graphic" width="350" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" />
 </p>
 
 ## 📌 About Me
@@ -34,8 +34,9 @@
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="45" height="45"/>
   </a>
-  
-<img align="right" alt="Coding Graphic" width="350" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" />
+  &nbsp;&nbsp;
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="45" height="45"/>
   </a>
 </p>
 
