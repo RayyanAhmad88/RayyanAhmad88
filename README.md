@@ -1,24 +1,55 @@
-<div align="left">
+<h1 align="center">Hi 👋, I'm Rayyan Ahmad</h1>
 
-# Hi 👋, I'm Rayyan
+<h3 align="center">🚀 Software Developer & Tech Enthusiast</h3>
 
-### A passionate Software Engineer from India
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=RayyanAhmad88&color=blueviolet&style=for-the-badge" alt="Profile Views" />
+</p>
 
-![Profile Views](https://img.shields.io/badge/Profile_views-765-blue?style=flat)
+---
 
-<img align="right" width="300" src="https://media.giphy.com/media/qgQUGGAC3P4PP9385a/giphy.gif" />
+<p align="center">
+  <img width="450" src="https://cdni.iconscout.com/illustration/premium/thumb/web-development-illustration-download-in-svg-png-gif-file-formats--developer-programmer-coding-laptop-code-seo-marketing-pack-business-illustrations-4375051.png" alt="Coding Illustration" />
+</p>
 
-* 🌐 All of my projects are available at [https://your-portfolio-link.com](https://your-portfolio-link.com)
+## 📌 About Me
 
-### Connect with me:
-<a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" height="28" /></a>
-<a href="https://instagram.com/YOUR_INSTAGRAM"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" height="28" /></a>
+* 💻 Passionate about building impactful software and solving complex problems.
+* 🎓 Computer Science Engineering Student dedicated to continuous learning.
+* 🌐 Explore my portfolio and projects on [GitHub](https://github.com/RayyanAhmad88).
 
-### Languages and Tools:
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" height="32" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" height="32" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" height="32" /> <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" height="32" />
+---
 
-<br/><br/>
+## 🛠️ Languages & Tools
 
-[![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=RayyanAhmad88&theme=default&hide_border=false)](https://git.io/streak-stats)
+<p align="left">
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="45" height="45"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.java.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="45" height="45"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="45" height="45"/>
+  </a>
+  
+<img align="right" alt="Coding Graphic" width="350" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" />
+  </a>
+</p>
 
-</div>
+---
+
+## ⚡ GitHub Stats
+
+<br> 
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RayyanAhmad88&theme=default&hide_border=false)](https://git.io/streak-stats)
+
+<br>
+---
+
+## Connect with me:
+<a href="https://linkedin.com/in/rayyan-ahmad-b5654b248/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+<a href="https://instagram.com/rayyanahmad.exe/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
